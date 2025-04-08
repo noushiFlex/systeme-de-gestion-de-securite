@@ -18,10 +18,10 @@ Le dépôt contient les **4 diagrammes UML** modélisant le fonctionnement globa
 
 | Diagramme | Description |
 |----------|-------------|
-| 📌 `usecase.puml` | Diagramme de cas d'utilisation présentant les interactions entre les acteurs et le système |
-| 🧩 `sequence.puml` | Diagramme de séquence illustrant le déroulement d'une alerte déclenchée automatiquement |
-| 🔄 `activity.puml` | Diagramme d'activité décrivant le processus global de gestion des alertes |
-| 🧬 `class.puml` | Diagramme de classes représentant la structure du système |
+| 📌 `usecase.png` | Diagramme de cas d'utilisation présentant les interactions entre les acteurs et le système |
+| 🧩 `sequence.png` | Diagramme de séquence illustrant le déroulement d'une alerte déclenchée automatiquement |
+| 🔄 `activity.png` | Diagramme d'activité décrivant le processus global de gestion des alertes |
+| 🧬 `class.png` | Diagramme de classes représentant la structure du système |
 
 ---
 
